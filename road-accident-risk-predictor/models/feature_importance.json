@@ -1,0 +1,11 @@
+{
+  "PctJunction": 0.0851,
+  "PctCrossing": 0.0737,
+  "PctTrafficSignal": 0.0664,
+  "PctRushHour": 0.1301,
+  "PctWeekend": 0.1361,
+  "AvgVisibility": 0.2339,
+  "AvgWindSpeed": 0.082,
+  "AvgPrecipitation": 0.0923,
+  "PctBadWeather": 0.1004
+}
