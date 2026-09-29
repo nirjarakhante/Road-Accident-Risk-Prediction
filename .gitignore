@@ -8,3 +8,4 @@ data/raw/
 
 .env
 .streamlit/secrets.toml
+road-accident-risk-predictor/VIVA_PREPARATION.md
