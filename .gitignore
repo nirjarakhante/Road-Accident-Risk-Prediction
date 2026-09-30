@@ -9,3 +9,9 @@ data/raw/
 .env
 .streamlit/secrets.toml
 road-accident-risk-predictor/VIVA_PREPARATION.md
+VIVA_PREPARATION.md
+
+
+!road-accident-risk-predictor/data/
+!road-accident-risk-predictor/data/processed/
+!road-accident-risk-predictor/data/processed/grid_risk.csv
